@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\SchoolManagementSystem\SMS.Tests\bin\Debug\net8.0\SMS.Tests.deps.json
+C:\Users\Hp\source\repos\SchoolManagementSystem\SMS.Tests\bin\Debug\net8.0\SMS.Tests.dll
+C:\Users\Hp\source\repos\SchoolManagementSystem\SMS.Tests\bin\Debug\net8.0\SMS.Tests.pdb
+C:\Users\Hp\source\repos\SchoolManagementSystem\SMS.Tests\obj\Debug\net8.0\SMS.Tests.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\SchoolManagementSystem\SMS.Tests\obj\Debug\net8.0\SMS.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\SchoolManagementSystem\SMS.Tests\obj\Debug\net8.0\SMS.Tests.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\SchoolManagementSystem\SMS.Tests\obj\Debug\net8.0\SMS.Tests.AssemblyInfo.cs
+C:\Users\Hp\source\repos\SchoolManagementSystem\SMS.Tests\obj\Debug\net8.0\SMS.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\SchoolManagementSystem\SMS.Tests\obj\Debug\net8.0\SMS.Tests.dll
+C:\Users\Hp\source\repos\SchoolManagementSystem\SMS.Tests\obj\Debug\net8.0\refint\SMS.Tests.dll
+C:\Users\Hp\source\repos\SchoolManagementSystem\SMS.Tests\obj\Debug\net8.0\SMS.Tests.pdb
+C:\Users\Hp\source\repos\SchoolManagementSystem\SMS.Tests\obj\Debug\net8.0\ref\SMS.Tests.dll
+C:\Users\Hp\source\repos\SchoolManagementSystem\SMS.Tests\bin\Debug\net8.0\SMS.Tests.runtimeconfig.json
+C:\Users\Hp\source\repos\SchoolManagementSystem\SMS.Tests\obj\Debug\net8.0\SMS.Tests.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+C:\Users\Hp\source\repos\SchoolManagementSystem\SMS.Domain\bin\Debug\net8.0\SMS.Domain.deps.json
+C:\Users\Hp\source\repos\SchoolManagementSystem\SMS.Domain\bin\Debug\net8.0\SMS.Domain.dll
+C:\Users\Hp\source\repos\SchoolManagementSystem\SMS.Domain\bin\Debug\net8.0\SMS.Domain.pdb
+C:\Users\Hp\source\repos\SchoolManagementSystem\SMS.Domain\bin\Debug\net8.0\SMS.Tests.dll
+C:\Users\Hp\source\repos\SchoolManagementSystem\SMS.Domain\bin\Debug\net8.0\SMS.Tests.pdb
+C:\Users\Hp\source\repos\SchoolManagementSystem\SMS.Domain\obj\Debug\net8.0\SMS.Domain.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\SchoolManagementSystem\SMS.Domain\obj\Debug\net8.0\SMS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\SchoolManagementSystem\SMS.Domain\obj\Debug\net8.0\SMS.Domain.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\SchoolManagementSystem\SMS.Domain\obj\Debug\net8.0\SMS.Domain.AssemblyInfo.cs
+C:\Users\Hp\source\repos\SchoolManagementSystem\SMS.Domain\obj\Debug\net8.0\SMS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\SchoolManagementSystem\SMS.Domain\obj\Debug\net8.0\SMS.Domain.csproj.Up2Date
+C:\Users\Hp\source\repos\SchoolManagementSystem\SMS.Domain\obj\Debug\net8.0\SMS.Domain.dll
+C:\Users\Hp\source\repos\SchoolManagementSystem\SMS.Domain\obj\Debug\net8.0\refint\SMS.Domain.dll
+C:\Users\Hp\source\repos\SchoolManagementSystem\SMS.Domain\obj\Debug\net8.0\SMS.Domain.pdb
+C:\Users\Hp\source\repos\SchoolManagementSystem\SMS.Domain\obj\Debug\net8.0\ref\SMS.Domain.dll
+C:\Users\Hp\source\repos\SchoolManagementSystem\SMS.Domain\bin\Debug\net8.0\SMS.Domain.runtimeconfig.json
+C:\Users\Hp\source\repos\SchoolManagementSystem\SMS.Domain\obj\Debug\net8.0\SMS.Domain.genruntimeconfig.cache
